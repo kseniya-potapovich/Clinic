@@ -4,7 +4,8 @@ public class TreatmentPlan {
     public TreatmentPlan(int code) {
         this.code = code;
     }
-    public int getCode(){
+
+    public int getCode() {
         return code;
     }
 }

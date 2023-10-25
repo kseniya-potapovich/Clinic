@@ -1,5 +1,5 @@
-public class Dentist extends Doctor{
-    public void treat(){
+public class Dentist extends Doctor {
+    public void treat() {
         System.out.println("я умею лечить, как дантист!");
     }
 }
